@@ -54,6 +54,7 @@ article {
 article img {
     width: auto;
     height: 300px;
+    float: center;
 }
 
 header{
@@ -111,6 +112,11 @@ font-size: 100px;
 
 h2{
     font-family: "Great Vibes", cursive;
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
 
 
