@@ -2,14 +2,6 @@
     box-sizing: border-box;
 }
 
-{@import url('https://fonts.googleapis.com/css2?family=Arizonia:wght@400&display=swap');
-
-font-family: 'Arizonia', cursive;
-font-weight: 400;
-font-style: normal;
-line-height: 1.1;
-}
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -80,7 +72,10 @@ header img { /*  imagen de hamilton logo */
 }
 
 h1{
-    font-family: cursive;
+   font-family: 'Arizonia', cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
 }
 
 
