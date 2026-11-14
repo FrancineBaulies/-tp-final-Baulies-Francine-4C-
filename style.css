@@ -9,6 +9,9 @@ body {
     padding: 0;
     background-color: #db991f;
 }
+header{
+
+}
 
 header, nav, main, footer {
     padding: 20px;
@@ -62,9 +65,9 @@ article img {
 
 
 header img { /*  imagen de hamilton logo */
-  width: 300px;
-  height: 300px;
-  float: right;
+  width: 200px;
+  height: auto;
+  position: relative;
 }
 
 h1{
@@ -81,6 +84,7 @@ footer {
     font-size: 0.9em;
     background-color: #945b1e;
     color:#333;
+    margin-top: auto;
 }
 
 p.subfrase{
