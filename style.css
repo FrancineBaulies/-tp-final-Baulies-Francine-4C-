@@ -82,3 +82,9 @@ footer {
     background-color: #945b1e;
     color:#333;
 }
+
+p.destacado{
+    color: blue;           /* Texto azul */
+    font-weight: bold;     /* Negrita */
+    font-size: 18px;   
+}
