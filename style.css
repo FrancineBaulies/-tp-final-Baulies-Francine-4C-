@@ -28,7 +28,7 @@ nav ul li {
     margin-right: 15px;
 }
 
-nav a {
+nav a {  /*  texto de la barra */
     text-decoration: none;
     color: #333;
     font-weight: bold;
@@ -70,7 +70,7 @@ footer {
     color:#333;
 }
 
-header img {
+header img { /*  imagen de hamilton logo */
   width: 300px;
   height: 300px;
   float: right;
