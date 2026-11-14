@@ -77,25 +77,8 @@ footer {
     margin-top: auto;
 }
 
-p.subfrase{
-    color: #945b1e;          
-    font-weight: bold;     
-    font-size: 18px;  
-    text-align: center; 
-}
 
-img.subfrase{
-    width: auto;
-    height: auto;
-    position: right;
-}
 
-h2.frase{
-    text-align: center;
-    font-family: "Zeyada",cursive;
-    font-size: 70px;
-
-}
 
 .zeyada-regular {
   font-family: "Zeyada", cursive;
