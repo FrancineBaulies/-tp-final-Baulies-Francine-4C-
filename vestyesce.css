@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #db991f;
+}
+
+
+header, nav, main, footer {
+    padding: 20px;
+    margin: 10px;
+    background: #d9ab4c;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+       text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+       text-align: center;
+}
+
+nav a {  /*  texto de la barra */
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+article {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+article img {
+    width: 300px;
+    height: 300px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+header img { /*  imagen de hamilton logo */
+  width: 200px;
+  height: auto;
+  float: right;
+}
+
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    background-color: #945b1e;
+    color:#333;
+    margin-top: auto;
+}
+
+p.subfrase{
+    color: #945b1e;          
+    font-weight: bold;     
+    font-size: 18px;  
+    text-align: center; 
+}
+
+img.subfrase{
+    width: auto;
+    height: auto;
+    position: right;
+}
+
+h2.frase{
+    text-align: center;
+    font-family: "Zeyada",cursive;
+    font-size: 70px;
+
+}
+
+.zeyada-regular {
+  font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1.top10{
+     font-family: "Zeyada",cursive;
+     font-size: large;
+}
+
+h1.titulo{
+   font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
+
+h1.titulotop{
+    font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
+
+h1.titulocreador{
+      font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
+
+h1.titulovest{
+     font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
