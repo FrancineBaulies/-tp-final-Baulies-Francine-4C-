@@ -101,7 +101,7 @@ font-size: 100px;
 article img{
     width: 600px;
     height: auto;
-    float: center;
+    position: center;
 }
 
 
