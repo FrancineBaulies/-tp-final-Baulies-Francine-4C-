@@ -63,12 +63,7 @@ article img {
     height: 300px;
 }
 
-footer {
-    text-align: center;
-    font-size: 0.9em;
-    background-color: #945b1e;
-    color:#333;
-}
+
 
 header img { /*  imagen de hamilton logo */
   width: 300px;
@@ -78,4 +73,13 @@ header img { /*  imagen de hamilton logo */
 
 h1{
     font-family: cursive;
+}
+
+
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    background-color: #945b1e;
+    color:#333;
 }
