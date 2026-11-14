@@ -77,26 +77,6 @@ footer {
     margin-top: auto;
 }
 
-p.subfrase{
-    color: #945b1e;          
-    font-weight: bold;     
-    font-size: 18px;  
-    text-align: center; 
-}
-
-img.subfrase{
-    width: auto;
-    height: auto;
-    position: right;
-}
-
-h2.frase{
-    text-align: center;
-    font-family: "Zeyada",cursive;
-    font-size: 70px;
-
-}
-
 .zeyada-regular {
   font-family: "Zeyada", cursive;
   font-weight: 400;
@@ -109,27 +89,6 @@ h2.frase{
   font-style: normal;
 }
 
-h1.top10{
-     font-family: "Zeyada",cursive;
-     font-size: large;
-}
-
-h1.titulo{
-   font-family: "Great Vibes", cursive;
-font-weight: 400;
-font-style: normal;
-line-height: 1.1;
-font-size: 100px;
-}
-
-h1.titulotop{
-    font-family: "Great Vibes", cursive;
-font-weight: 400;
-font-style: normal;
-line-height: 1.1;
-font-size: 100px;
-}
-
 h1.titulocreador{
       font-family: "Great Vibes", cursive;
 font-weight: 400;
@@ -138,10 +97,6 @@ line-height: 1.1;
 font-size: 100px;
 }
 
-h1.titulovest{
-     font-family: "Great Vibes", cursive;
-font-weight: 400;
-font-style: normal;
-line-height: 1.1;
-font-size: 100px;
+p.subfrase2{
+
 }
