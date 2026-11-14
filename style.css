@@ -36,8 +36,6 @@ nav a {  /*  texto de la barra */
 }
 
 
-
-
 section {
     display: flex;
     flex-direction: column;
@@ -58,7 +56,7 @@ article img {
 header img { /*  imagen de hamilton logo */
   width: 200px;
   height: auto;
-  position: relative;
+  position: right;
 }
 
 header h1{
