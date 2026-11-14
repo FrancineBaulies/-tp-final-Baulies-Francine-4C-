@@ -75,3 +75,7 @@ header img { /*  imagen de hamilton logo */
   height: 300px;
   float: right;
 }
+
+h1{
+    font-family: cursive;
+}
