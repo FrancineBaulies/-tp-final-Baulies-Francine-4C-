@@ -89,4 +89,5 @@ p.subfrase{
 img.subfrase{
     width: auto;
     height: auto;
+    position: right;
 }
