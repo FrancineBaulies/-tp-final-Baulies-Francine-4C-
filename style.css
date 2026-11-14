@@ -118,6 +118,7 @@ h2.frase{
   font-style: normal;
 }
 
-h1{
+h1.top10{
      font-family: "Zeyada",cursive;
+     font-size: large;
 }
