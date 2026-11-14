@@ -63,6 +63,7 @@ header{
 header img { /*  imagen de hamilton logo */
   width: 200px;
   height: auto;
+  float: right;
 }
 
 header h1{
