@@ -122,3 +122,27 @@ h1.top10{
      font-family: "Zeyada",cursive;
      font-size: large;
 }
+
+h1.titulotop{
+    font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
+
+h1.titulocreador{
+      font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
+
+h1.titulovest{
+     font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+line-height: 1.1;
+font-size: 100px;
+}
