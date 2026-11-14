@@ -85,9 +85,9 @@ p.subfrase{
 }
 
 img.subfrase{
-    width: auto;
+    width: 900px;
     height: auto;
-    position: right;
+    position: center;
 }
 
 h2.frase{
