@@ -36,6 +36,7 @@ nav a {  /*  texto de la barra */
     color: #333;
     font-weight: bold;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -78,6 +79,7 @@ p.subfrase{
     font-weight: bold;     
     font-size: 18px;  
     text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
 }
 
 img.subfrase{
