@@ -21,7 +21,7 @@ header, nav, main, footer {
 
 nav ul {
     list-style: none;
-    padding: 0;
+    padding: 30;
        text-align: center;
 }
 
