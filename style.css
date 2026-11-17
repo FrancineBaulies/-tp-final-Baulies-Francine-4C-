@@ -79,6 +79,7 @@ p.subfrase{
     font-weight: bold;     
     font-size: 18px;  
     text-align: center; 
+    text-decoration: double;
     font-family: 'Times New Roman', Times, serif;
 }
 
