@@ -85,8 +85,7 @@ p.subfrase{
 img.subfrase{
     width: 1000px;
     height: auto;
-    float: center;
-    align-items: center;
+    text-align: center;
 }
 
 h2.frase{
