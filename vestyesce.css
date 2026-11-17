@@ -102,3 +102,14 @@ h2{
 p{
     font-family: 'Times New Roman', Times, serif;
 }
+
+.galeria {  /*  imagen en línea (lo saqué de google para poder hacerlo) */
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.galeria img {
+    width: 30%;
+    height: auto;
+}
